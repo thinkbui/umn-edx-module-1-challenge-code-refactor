@@ -24,6 +24,10 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
+section {
+  color: #ffffff;
+}
+
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -37,7 +41,6 @@ aside {
 
 aside section {
   margin-bottom: 32px;
-  color: #ffffff;
 }
 
 aside h3 {
@@ -119,7 +122,6 @@ footer h2 {
   height: 300px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #0072bb;
-  color: #ffffff;
 }
 
 .content section img {
